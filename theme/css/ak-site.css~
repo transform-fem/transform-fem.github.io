@@ -1,0 +1,8 @@
+.ak-left-float {
+  float:left;
+  margin:10px;
+}
+
+hr {
+  clear:both;
+}
